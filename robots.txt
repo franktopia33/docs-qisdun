@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-55udx4.biggamingwin.online/sitemap.xml
